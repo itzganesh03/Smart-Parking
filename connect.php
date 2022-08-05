@@ -1,9 +1,9 @@
 <?php
 
-$dbname = 'epiz_27664234_parking';
-$dbuser = 'epiz_27664234';  
-$dbpass = 'M7FYKx0e0uWk64P'; 
-$dbhost = 'sql207.epizy.com'; 
+$dbname = '';
+$dbuser = '';  
+$dbpass = ''; 
+$dbhost = ''; 
 
 $connect = @mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
 
